@@ -1,1 +1,4 @@
 # myterraformtemplates
+
+
+terrraform apply
